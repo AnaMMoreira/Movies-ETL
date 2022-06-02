@@ -5,3 +5,5 @@ archive/keywords.csv
 archive/credits.csv
 archive/links_small.csv
 archive/ratings.csv
+ratings.csv
+*.csv
